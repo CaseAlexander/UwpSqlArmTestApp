@@ -1,8 +1,0 @@
-﻿{
-  "db": {
-    "url": "https://vulnerability-search.jetbrains.com"
-  },
-  "advisoriesByPackage": "https://www.mend.io/vulnerability-database/?utm_source=JetBrains&query=",
-  "dataProviderLink": "https://www.mend.io/jetbrains-lp/?utm_source=JetBrains",
-  "dataProvider": "Mend.io"
-}
